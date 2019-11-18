@@ -50,3 +50,12 @@ Em outras palavras, classes não preparadas para herança podem tornar o sistema
  - Classes seladas é uma forma de fazer uma hierárquia de classes restrita. 
  Classes seladas e suas implementações devem ficar no mesmo arquivo. 
  Útil para operações matematicas, máquinas de estados, programação funcional **(bloco4.exemplo1)**
+ 
+ 
+ ### Parte 5 - Construtores ###
+ 
+ - Construtores primários podem ser escritos de diversas formas **(bloco5.exemplo1)**
+ - Construtores podem ter valores default, e quando todos os atritubos tiverem valor default, 
+ um constutor vazio é adicionado como opção **(bloco5.exemplo2)**
+ - Classes superiores devem ser invocadas no construtor da classe herdada **(bloco5.exemplo3)**
+ - Podem existir Construtores secundários, e no caso de herança eles devem chamar o construtor correspondente da super classe 

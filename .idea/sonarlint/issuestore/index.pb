@@ -1,0 +1,25 @@
+
+U
+%src/capitulo4/bloco1/bonus1/Bonus1.kt,0/f/0f6810574f9bac17816aee23d5a0ce4b3cc9bfa4
+d
+4src/capitulo4/bloco1/exemplo1/DefinicaoInterfaces.kt,4/c/4c6e40d22344793b98588043e85c2b1a8c1fffbc
+n
+>src/capitulo4/bloco1/exemplo2/InterfacesImplementacaoPadrao.kt,a/9/a96cc2f4e8f4326b6996494830f5611a1726234c
+s
+Csrc/capitulo4/bloco1/exemplo3/MultiplasInterfacesMesmaAssinatura.kt,5/4/54ead0a9a65b2e29be450a5066b684c6ac677c43
+\
+,src/capitulo4/bloco2/exemplo1/ClassesOpen.kt,0/5/0563880c441fba80447958522828b3f05dac7d94
+b
+2src/capitulo4/bloco2/exemplo2/ClasseMetodosOpen.kt,2/e/2e33e98e4495dc3431198ebd24629515aab94f97
+d
+4src/capitulo4/bloco2/exemplo3/SobreEscritaCascata.kt,9/0/9016214bbe2a74cb03ca23175646cb2792861265
+d
+4src/capitulo4/bloco3/exemplo1/ModificadorInternal.kt,5/4/54720f4eb8987c34be193b8ffea499fc2721d7d9
+a
+1src/capitulo4/bloco3/exemplo2/ClassesAlinhadas.kt,4/e/4e83b52bcc18ca8a44dadfe8d4f560530cb36458
+_
+/src/capitulo4/bloco4/exemplo1/ClassesSeladas.kt,e/f/ef0d8051fbafef4aeca67fad8901198186dad30c
+b
+2src/capitulo4/bloco4/exemplo1/OutraClasseSelada.kt,6/2/627d12a80df9e5c36f5d960b38a33e84cc38dd71
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
