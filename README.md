@@ -58,4 +58,14 @@ Em outras palavras, classes não preparadas para herança podem tornar o sistema
  - Construtores podem ter valores default, e quando todos os atritubos tiverem valor default, 
  um constutor vazio é adicionado como opção **(bloco5.exemplo2)**
  - Classes superiores devem ser invocadas no construtor da classe herdada **(bloco5.exemplo3)**
- - Podem existir Construtores secundários, e no caso de herança eles devem chamar o construtor correspondente da super classe 
+ - Podem existir Construtores secundários, e no caso de herança eles devem chamar o construtor 
+ correspondente da super classe **(bloco5.exemplo4)**
+ 
+ ### Parte 6 - Propriedades ###
+  
+  - Interfaces podem definir propriedades que as classes que concretas devem oferecer, ela não especifíca como vai ser implementada,
+  seja uma propriedade backing field, uma propriedade calculada  **(bloco6.exemplo1)**
+  - É possível colocar `privete` em metodo set de uma propriedade `var` **(bloco6.exemplo2)**
+
+### Parte 7 - Data Class ###
+  - Topico 4.3.1 

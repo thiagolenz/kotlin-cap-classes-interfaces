@@ -23,3 +23,11 @@ b
 2src/capitulo4/bloco4/exemplo1/OutraClasseSelada.kt,6/2/627d12a80df9e5c36f5d960b38a33e84cc38dd71
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+c
+3src/capitulo4/bloco5/exemplo1/ConstrutorPrimario.kt,f/2/f2eb9828c354ff77627e347dee20fda59ce8df11
+n
+>src/capitulo4/bloco5/exemplo2/ConstrutoresComValoresDefault.kt,7/3/73ca1f1bff9b43cd14f29ee017a619945af9b372
+`
+0src/capitulo4/bloco5/exemplo3/ConstrutorSuper.kt,1/f/1f21770caaa05a7f31a6c23f34817ce6f0478cb7
+e
+5src/capitulo4/bloco5/exemplo4/ConstrutorSecundario.kt,f/8/f844e233b0efd8c32d1fb8078ef452921d4ed6f9
