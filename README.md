@@ -102,5 +102,9 @@ Em outras palavras, classes não preparadas para herança podem tornar o sistema
        
   
 ## RESUMO ##
-    padrões de projeto, 
-    organização de operações static 
+    - Kotlin traz vários padrões de projeto de forma nativa e organizada 
+    - Herança só é permitida se você quiser e terá que pensar como isso pode ser feito
+    - A parte de visibilidade traz uma certa correção no caso do protected e internal
+    - Objetos imutáveis garantem um pouco mais de segurança para não causar efeitos colaterais 
+    - Companion objects separam muito bem metodos de classes de metodos de objeto  
+    - Selead classes traz mais restrição para trabalhar com classes mais avançadas do que enums 
