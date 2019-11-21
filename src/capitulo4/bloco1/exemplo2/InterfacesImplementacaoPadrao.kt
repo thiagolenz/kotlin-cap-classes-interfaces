@@ -10,6 +10,11 @@ class Button: Clickable {
         setup()
         println("Button clicked!!")
     }
+
+    override fun setup() {
+        super.setup()
+        println("este é setup do button")
+    }
 }
 
 fun main() {

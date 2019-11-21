@@ -10,6 +10,8 @@ class GmailUser : User () {
     fun getName () = "Nome do Usuario"
 }
 
+//descomentar o código abaixo para dar erro no getName
+
 //class InstaUser : User () {
 //    fun getNickName () = "Nome do Usuario"
 //}

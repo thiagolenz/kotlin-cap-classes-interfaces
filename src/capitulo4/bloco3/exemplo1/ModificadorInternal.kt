@@ -9,9 +9,9 @@ internal open class TalkativeButton {
 //    whisper()
 //}
 
-//internal class OtherButton : TalkativeButton() {
-//    fun giveSpeech () {
+internal class OtherButton : TalkativeButton() {
+    fun giveSpeech () {
 //        yell()
-//        whisper()
-//    }
-//}
+        whisper()
+    }
+}

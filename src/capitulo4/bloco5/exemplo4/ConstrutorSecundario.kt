@@ -14,7 +14,7 @@ open class Imposto {
     }
 }
 
-class IssBH : Imposto{
+class ISS : Imposto{
     constructor(descricao: String, cidade: Cidade) : super(descricao, cidade)
 }
 
@@ -23,6 +23,6 @@ class Cofins : Imposto{
 }
 
 fun main() {
-    IssBH("Iss BH", Cidade("Belo Horizonte"))
+    ISS("Iss BH", Cidade("Belo Horizonte"))
     Cofins("Cofins PR", Estado("Paraná"))
 }
