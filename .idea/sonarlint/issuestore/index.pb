@@ -31,3 +31,7 @@ n
 0src/capitulo4/bloco5/exemplo3/ConstrutorSuper.kt,1/f/1f21770caaa05a7f31a6c23f34817ce6f0478cb7
 e
 5src/capitulo4/bloco5/exemplo4/ConstrutorSecundario.kt,f/8/f844e233b0efd8c32d1fb8078ef452921d4ed6f9
+g
+7src/capitulo4/bloco6/exemplo1/PropriedadesInterfaces.kt,8/d/8d1632dccc150bcbc27fbd8caaa968164b40cae0
+h
+8src/capitulo4/bloco6/exemplo2/ModificadorPropriedades.kt,d/6/d6104f23a9a0a92b71ce664f578c1fa9985b6ed0

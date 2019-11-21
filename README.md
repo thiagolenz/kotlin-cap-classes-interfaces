@@ -68,4 +68,28 @@ Em outras palavras, classes não preparadas para herança podem tornar o sistema
   - É possível colocar `privete` em metodo set de uma propriedade `var` **(bloco6.exemplo2)**
 
 ### Parte 7 - Data Class ###
-  - Topico 4.3.1 
+  - Igualdade entre objetos com dois iguais == gera uma chamada interna dos metodos equals, 
+  para verificar a instancia usa-se os três iguais === **(bloco7.exemplo1)**
+  - Data Class gera automaticamente os metodos: hashCode, equals, toString e Copy
+  - Copy é utilizado pra clonar objetos e poder alterar apenas as propriedades desejadas, a ideia que os objetos sejam imutaveis e 
+  seja criada uma cópia pra alterar os dados necessários **(bloco7.exemplo2)**
+   
+### Parte 8 - Objects ###
+  - A palavra reservada object define uma instância de uma class. São 3 os tipos
+    * Singletons
+    * Companion objects, em java o equivalente são os metodos, variaveis e blocos static das classes, fábrica de objetos
+    * Expressões ou classes anonimas 
+  - Object: 
+    * Não permite instância. Não permite nenhum tipo de construtor. **(bloco8.exemplo1)**
+    * Podem extender de classes e interfaces **(bloco8.exemplo2)**
+  - Companion Object
+    * Kotlin não existe static, para tal existem as funções de pacote e os objetos companion que vem pra substituir. 
+    Eles tem acesso aos membros private da classe, diferente das funções de nível superior. **(bloco8.exemplo3)**
+    * Companion objects podem ser usado para fabricas de objetos, onde se define um construtor privado 
+    e um metodo que instancia da melhor forma **(bloco8.exemplo4)**
+    * Companion objects podem implementar interfaces **(bloco8.exemplo5)**
+    * Companion objects também podem ser extendidos **(bloco8.exemplo6)**
+    * Objects também servem Classes anonimas ou expressoes (lambdas)
+   
+  
+## RESUMO ##
